@@ -1,0 +1,569 @@
+{
+  "Experimental": {
+    "title": "Experimental",
+    "children": {
+      "Avant-Garde": {
+        "title": "Avant-Garde"
+      },
+      "Noise": {
+        "title": "Noise"
+      },
+      "Electroacoustic": {
+        "title": "Electroacoustic"
+      },
+      "Improv": {
+        "title": "Improv"
+      },
+      "Field Recordings": {
+        "title": "Field Recordings"
+      },
+      "Musique Concrete": {
+        "title": "Musique Concrete"
+      },
+      "Drone": {
+        "title": "Drone"
+      },
+      "Sound Collage": {
+        "title": "Sound Collage"
+      },
+      "Unclassifiable": {
+        "title": "Unclassifiable"
+      },
+      "Sound Art": {
+        "title": "Sound Art"
+      },
+      "Minimalism": {
+        "title": "Minimalism"
+      },
+      "Novelty": {
+        "title": "Novelty",
+        "children": {
+          "Sound Effects": {
+            "title": "Sound Effects",
+            "children": {
+              "Holiday": {
+                "title": "Holiday",
+                "children": {
+                  "Christmas": {
+                    "title": "Christmas"
+                  }
+                }
+              }
+            }
+          },
+          "Kid-Friendly": {
+            "title": "Kid-Friendly"
+          }
+        }
+      },
+      "Audio Collage": {
+        "title": "Audio Collage"
+      },
+      "Sound Poetry": {
+        "title": "Sound Poetry"
+      }
+    }
+  },
+  "Electronic": {
+    "title": "Electronic",
+    "children": {
+      "Ambient Electronic": {
+        "title": "Ambient Electronic"
+      },
+      "IDM": {
+        "title": "IDM"
+      },
+      "Glitch": {
+        "title": "Glitch"
+      },
+      "Chip Music": {
+        "title": "Chip Music",
+        "children": {
+          "Chiptune": {
+            "title": "Chiptune"
+          }
+        }
+      },
+      "Techno": {
+        "title": "Techno",
+        "children": {
+          "Bigbeat": {
+            "title": "Bigbeat"
+          }
+        }
+      },
+      "Downtempo": {
+        "title": "Downtempo"
+      },
+      "Trip-Hop": {
+        "title": "Trip-Hop"
+      },
+      "House": {
+        "title": "House",
+        "children": {
+          "Chill-out": {
+            "title": "Chill-out"
+          }
+        }
+      },
+      "Dance": {
+        "title": "Dance"
+      },
+      "Dubstep": {
+        "title": "Dubstep",
+        "children": {
+          "Skweee": {
+            "title": "Skweee"
+          }
+        }
+      },
+      "Minimal Electronic": {
+        "title": "Minimal Electronic"
+      },
+      "Breakcore - Hard": {
+        "title": "Breakcore - Hard"
+      },
+      "Drum & Bass": {
+        "title": "Drum & Bass"
+      },
+      "Jungle": {
+        "title": "Jungle"
+      }
+    }
+  },
+  "Rock": {
+    "title": "Rock",
+    "children": {
+      "Punk": {
+        "title": "Punk",
+        "children": {
+          "Post-Punk": {
+            "title": "Post-Punk"
+          },
+          "Hardcore": {
+            "title": "Hardcore",
+            "children": {
+              "Thrash": {
+                "title": "Thrash"
+              }
+            }
+          },
+          "Power-Pop": {
+            "title": "Power-Pop"
+          },
+          "No Wave": {
+            "title": "No Wave"
+          },
+          "Electro-Punk": {
+            "title": "Electro-Punk"
+          }
+        }
+      },
+      "Lo-Fi": {
+        "title": "Lo-Fi"
+      },
+      "Indie-Rock": {
+        "title": "Indie-Rock"
+      },
+      "Garage": {
+        "title": "Garage",
+        "children": {
+          "Surf": {
+            "title": "Surf"
+          }
+        }
+      },
+      "Psych-Rock": {
+        "title": "Psych-Rock"
+      },
+      "Loud-Rock": {
+        "title": "Loud-Rock",
+        "children": {
+          "Noise-Rock": {
+            "title": "Noise-Rock",
+            "children": {
+              "Sludge": {
+                "title": "Sludge"
+              }
+            }
+          }
+        }
+      },
+      "Industrial": {
+        "title": "Industrial"
+      },
+      "Post-Rock": {
+        "title": "Post-Rock",
+        "children": {
+          "Space-Rock": {
+            "title": "Space-Rock"
+          }
+        }
+      },
+      "Metal": {
+        "title": "Metal",
+        "children": {
+          "Grindcore": {
+            "title": "Grindcore"
+          },
+          "Death-Metal": {
+            "title": "Death-Metal"
+          },
+          "Black-Metal": {
+            "title": "Black-Metal"
+          }
+        }
+      },
+      "Progressive": {
+        "title": "Progressive"
+      },
+      "Shoegaze": {
+        "title": "Shoegaze"
+      },
+      "Krautrock": {
+        "title": "Krautrock"
+      },
+      "New Wave": {
+        "title": "New Wave"
+      },
+      "Goth": {
+        "title": "Goth"
+      },
+      "Rock Opera": {
+        "title": "Rock Opera"
+      }
+    }
+  },
+  "Instrumental": {
+    "title": "Instrumental",
+    "children": {
+      "Ambient": {
+        "title": "Ambient"
+      },
+      "Soundtrack": {
+        "title": "Soundtrack",
+        "children": {
+          "Compilation": {
+            "title": "Compilation"
+          }
+        }
+      },
+      "New Age": {
+        "title": "New Age"
+      }
+    }
+  },
+  "Pop": {
+    "title": "Pop",
+    "children": {
+      "Experimental Pop": {
+        "title": "Experimental Pop"
+      },
+      "Synth Pop": {
+        "title": "Synth Pop"
+      }
+    }
+  },
+  "Folk": {
+    "title": "Folk",
+    "children": {
+      "Singer-Songwriter": {
+        "title": "Singer-Songwriter"
+      },
+      "Psych-Folk": {
+        "title": "Psych-Folk"
+      },
+      "Freak-Folk": {
+        "title": "Freak-Folk"
+      },
+      "Free-Folk": {
+        "title": "Free-Folk"
+      },
+      "British Folk": {
+        "title": "British Folk"
+      }
+    }
+  },
+  "Hip-Hop": {
+    "title": "Hip-Hop",
+    "children": {
+      "Hip-Hop Beats": {
+        "title": "Hip-Hop Beats"
+      },
+      "Alternative Hip-Hop": {
+        "title": "Alternative Hip-Hop"
+      },
+      "Breakbeat": {
+        "title": "Breakbeat"
+      },
+      "Rap": {
+        "title": "Rap"
+      },
+      "Abstract Hip-Hop": {
+        "title": "Abstract Hip-Hop"
+      },
+      "Nerdcore": {
+        "title": "Nerdcore"
+      },
+      "Wonky": {
+        "title": "Wonky"
+      }
+    }
+  },
+  "International": {
+    "title": "International",
+    "children": {
+      "Reggae - Dub": {
+        "title": "Reggae - Dub",
+        "children": {
+          "Reggae - Dancehall": {
+            "title": "Reggae - Dancehall"
+          }
+        }
+      },
+      "Europe": {
+        "title": "Europe",
+        "children": {
+          "Spanish": {
+            "title": "Spanish"
+          },
+          "Romany (Gypsy)": {
+            "title": "Romany (Gypsy)"
+          },
+          "Klezmer": {
+            "title": "Klezmer"
+          },
+          "Fado": {
+            "title": "Fado"
+          }
+        }
+      },
+      "Balkan": {
+        "title": "Balkan"
+      },
+      "Latin America": {
+        "title": "Latin America",
+        "children": {
+          "Cumbia": {
+            "title": "Cumbia"
+          },
+          "Tango": {
+            "title": "Tango"
+          },
+          "Salsa": {
+            "title": "Salsa"
+          }
+        }
+      },
+      "French": {
+        "title": "French"
+      },
+      "African": {
+        "title": "African",
+        "children": {
+          "Afrobeat": {
+            "title": "Afrobeat"
+          },
+          "North African": {
+            "title": "North African"
+          }
+        }
+      },
+      "Brazilian": {
+        "title": "Brazilian"
+      },
+      "Indian": {
+        "title": "Indian",
+        "children": {
+          "South Indian Traditional": {
+            "title": "South Indian Traditional"
+          },
+          "N. Indian Traditional": {
+            "title": "N. Indian Traditional"
+          },
+          "Bollywood": {
+            "title": "Bollywood"
+          }
+        }
+      },
+      "Middle East": {
+        "title": "Middle East",
+        "children": {
+          "Turkish": {
+            "title": "Turkish"
+          }
+        }
+      },
+      "Asia-Far East": {
+        "title": "Asia-Far East"
+      },
+      "Latin": {
+        "title": "Latin"
+      },
+      "Celtic": {
+        "title": "Celtic"
+      },
+      "Polka": {
+        "title": "Polka"
+      },
+      "Flamenco": {
+        "title": "Flamenco"
+      },
+      "Pacific": {
+        "title": "Pacific"
+      }
+    }
+  },
+  "Jazz": {
+    "title": "Jazz",
+    "children": {
+      "Free-Jazz": {
+        "title": "Free-Jazz"
+      },
+      "Jazz: Out": {
+        "title": "Jazz: Out"
+      },
+      "Modern Jazz": {
+        "title": "Modern Jazz"
+      },
+      "Big Band/Swing": {
+        "title": "Big Band/Swing"
+      },
+      "Jazz: Vocal": {
+        "title": "Jazz: Vocal"
+      },
+      "Be-Bop": {
+        "title": "Be-Bop"
+      }
+    }
+  },
+  "Classical": {
+    "title": "Classical",
+    "children": {
+      "Contemporary Classical": {
+        "title": "Contemporary Classical"
+      },
+      "Composed Music": {
+        "title": "Composed Music"
+      },
+      "20th Century Classical": {
+        "title": "20th Century Classical"
+      },
+      "Choral Music": {
+        "title": "Choral Music"
+      },
+      "Chamber Music": {
+        "title": "Chamber Music"
+      },
+      "Opera": {
+        "title": "Opera"
+      },
+      "Symphony": {
+        "title": "Symphony"
+      }
+    }
+  },
+  "Country": {
+    "title": "Country",
+    "children": {
+      "Americana": {
+        "title": "Americana"
+      },
+      "Bluegrass": {
+        "title": "Bluegrass"
+      },
+      "Rockabilly": {
+        "title": "Rockabilly"
+      },
+      "Country & Western": {
+        "title": "Country & Western",
+        "children": {
+          "Western Swing": {
+            "title": "Western Swing"
+          }
+        }
+      }
+    }
+  },
+  "Spoken": {
+    "title": "Spoken",
+    "children": {
+      "Radio": {
+        "title": "Radio",
+        "children": {
+          "Radio Art": {
+            "title": "Radio Art"
+          },
+          "Interview": {
+            "title": "Interview"
+          },
+          "Talk Radio": {
+            "title": "Talk Radio"
+          }
+        }
+      },
+      "Spoken Weird": {
+        "title": "Spoken Weird"
+      },
+      "Poetry": {
+        "title": "Poetry"
+      },
+      "Comedy": {
+        "title": "Comedy"
+      },
+      "Spoken Word": {
+        "title": "Spoken Word"
+      },
+      "Radio Theater": {
+        "title": "Radio Theater"
+      },
+      "Musical Theater": {
+        "title": "Musical Theater"
+      },
+      "Banter": {
+        "title": "Banter"
+      }
+    }
+  },
+  "Blues": {
+    "title": "Blues",
+    "children": {
+      "Gospel": {
+        "title": "Gospel"
+      }
+    }
+  },
+  "Soul-RnB": {
+    "title": "Soul-RnB",
+    "children": {
+      "Funk": {
+        "title": "Funk",
+        "children": {
+          "Deep Funk": {
+            "title": "Deep Funk"
+          }
+        }
+      },
+      "Disco": {
+        "title": "Disco"
+      }
+    }
+  },
+  "Old-Time / Historic": {
+    "title": "Old-Time / Historic"
+  },
+  "Easy Listening": {
+    "title": "Easy Listening",
+    "children": {
+      "Lounge": {
+        "title": "Lounge"
+      },
+      "Nu-Jazz": {
+        "title": "Nu-Jazz"
+      },
+      "Easy Listening: Vocal": {
+        "title": "Easy Listening: Vocal"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+# 任务描述
+
+你是一位具有丰富经验的音乐描述创作者，深谙不同音乐风格、音色与情绪之间的语言表达。
+
+你的任务是：根据输入的音乐结构化特征，创作两个用于音乐生成模型（如 Suno）的文本描述：
+
+1. 完整 Caption（caption_full）：
+
+   使用自然语言完整描述该音乐的内容，包括风格、配器、节奏、调性与情绪氛围。语言应自然、生动。
+
+2. 标签 Caption（caption_tags）：
+
+   将音乐的关键信息提炼为一组英文标签（tag），以逗号分隔。
+
+#  输入定义
+
+输入一个音乐结构化 JSON，如下所示：
+
+```json
+{
+  "theme": "str", // 音乐主题关键词，例如：'cat'、'ace'
+  "emotion": "str", // 音乐情绪关键词，例如：'Amusing'、'Dreamy'
+  "valence": "float", // valence数值，范围 [1.0 - 9.0]
+  "arousal": "float", // arousal数值，范围 [1.0 - 9.0]
+  "innovation": "str", // 创意等级，['low', 'medium', 'high']决定了你的作曲选择是“保守”还是“激进”。Low: 严格遵守流派规范。使用该流派最经典的乐器组合；Medium: 允许适度的跨流派融合，或在传统配器中加入一些非典型乐器；High: 鼓励进行大胆的实验。例如，激进的流派融合，或在知识库中选择冷门的乐器作为主奏。
+  "vocal": "str", //是否包含人声，[no,male,female,chorus]
+  "genre": "str", // 音乐流派。
+  "lead_instruments": ["str"], // 主奏乐器列表。
+  "supporting_instruments": ["str"], // 伴奏乐器列表。
+  "tempo": "int", // BPM (每分钟节拍数)，一个整数。
+  "key": "str", // 调性，例如：'C Major', 'A Minor', 'D Dorian'。
+  "composition_notes": "str" // 中文的创作思路，包括音乐情绪、配器逻辑与风格选择的原因。
+}
+```
+
+
+
+#  输出定义
+
+输出为一个 JSON 字符串（不包含额外解释、注释或自然语言说明），格式如下：
+
+```json
+{
+  "caption_full": "str",   // 【必须】自然语言完整音乐描述
+  "caption_tags": "str"    // 【必须】标签式的音乐描述，逗号分隔
+}
+```
+
+
+
+# 真实输入
+
+以下开始实际的输入：
+
+{{ENHANCED_STAGE2_OUTPUT}}
