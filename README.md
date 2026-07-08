@@ -1,7 +1,7 @@
 # MUSE-VA Pipeline
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv)]()
-[![https://huggingface.co/datasets/jiahaomei/MUSE-VA](https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface)](https://huggingface.co/spaces/mispeech/Dasheng-AudioGen)
+[![huggingface dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface)](https://huggingface.co/datasets/jiahaomei/MUSE-VA)
 [![Web Demo](https://img.shields.io/badge/Website-Demo-181717?logo=google-chrome)](https://nieeim.github.io/MUSE-VA/)
 
 [**English**](./README.md) | [**中文**](README.zh-CN.md)
