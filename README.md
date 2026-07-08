@@ -3,6 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv)]()
 [![huggingface dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface)](https://huggingface.co/datasets/jiahaomei/MUSE-VA)
 [![Web Demo](https://img.shields.io/badge/Website-Demo-181717?logo=google-chrome)](https://nieeim.github.io/MUSE-VA/)
+[![GitHub](https://img.shields.io/badge/GitHub-NieeiM%2FMUSE--VA--Pipeline-blue?logo=github)](https://github.com/NieeiM/MUSE-VA-Pipeline)
 
 [**English**](./README.md) | [**中文**](README.zh-CN.md)
 
